@@ -39,7 +39,7 @@
 
 .c-video__button--cast {
   position: absolute;
-  bottom: 3.5rem; 
+  top: 1rem; 
   right: 1rem;
 }
 
