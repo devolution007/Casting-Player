@@ -63,7 +63,7 @@
 
 .c-video__watermark {
   position: absolute;
-  bottom: 10px;
+  top: 10px;
   left: 10px;
   z-index: 99; /* Adjust z-index to ensure it's above the video player controls */
 }
